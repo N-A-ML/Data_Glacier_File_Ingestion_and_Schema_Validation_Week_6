@@ -1,0 +1,1 @@
+This week's project entailed data ingestion in Python. Each step is described in the Jupyter notebook.
